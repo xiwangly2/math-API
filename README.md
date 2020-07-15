@@ -5,3 +5,5 @@
 本例常用url get 规则：  
 <http://域名/math.php?x=x的值&y=y的值&z=z的值&m=计算方式>  
 
+PHP版本需\>7.0
+
